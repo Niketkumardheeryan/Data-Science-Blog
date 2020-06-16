@@ -11,7 +11,7 @@ more useful libraries ...
 
 
 ## Description 
-This repository contains a Data set of startups.csv and a Blog_post.ipnb file
+This repository contains a Data set of startups.csv and a Blog_post.ipynb file
 data set contains total 5 features , 4 are  dependent features and 1 is independent feature.
 We predict the profit for starts ups by using Multiple Linear regression model ..
 
